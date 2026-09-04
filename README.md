@@ -23,6 +23,8 @@ python app/pipeline_multiregion.py
 
 Expects a `dataset/` folder containing `outlet_*` subfolders at the same level as `app/`.
 
+Tests: `pytest tests/`
+
 ## Output
 
 Two files are written to `output/`:
