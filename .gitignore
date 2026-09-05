@@ -7,3 +7,5 @@ dataset/
 local/
 *.npz
 *.pytest_cache
+*.zip
+*.rar
