@@ -6,3 +6,4 @@ cache/
 dataset/
 local/
 *.npz
+*.pytest_cache
